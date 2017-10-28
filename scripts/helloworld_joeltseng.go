@@ -1,5 +1,5 @@
 // LANGUAGE: Go
-// ENV: The Go Plaground
+// ENV: The Go Playground
 // AUTHOR: Joel
 // GITHUB: https://github.com/joeltseng
 
